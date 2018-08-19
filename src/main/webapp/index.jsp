@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>DevOps Project Addition</title>
+<title>DevOps Project Add</title>
 </head>
 <body>
 <form action="CalcService">
